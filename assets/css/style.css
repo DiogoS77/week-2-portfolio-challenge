@@ -36,7 +36,7 @@
   nav ul li { 
     display: inline-block;
     margin-left: 25px;
-  }
+  }                                     /*Linked to the header of the page */
   
   a {
     color: #ffffff;
@@ -71,13 +71,13 @@
   .about-container {
     text-align: center;
     width: 60%;
-    margin: 0 auto;
+    margin: 0 auto;                               
   }
 
   #developer-photo img {
     width: 30%;
     height: auto;
-  }
+  }                                    /*All of them untill the top note are linked to my About Me Section and my picture*/
   
   .work-container {
     display: flex;
@@ -168,7 +168,7 @@
   h2 {
     margin-top: 50px;
     font-size: 32px;
-  }
+  }                                                      /*The ones above untill the previous note are all linked to the image boxes that contain my previous work*/
 
   .cv-container {
     text-align: center;
@@ -192,7 +192,7 @@
 
 .cv-container a:hover {
     background-color: #3b9bd6;
-}
+}                                                             /*All until the above note are linked to my cv section*/
 
   footer { 
     padding: 30px;
@@ -218,5 +218,9 @@ a img {
   .contact img {
     width: 50px;
     height: 50px;
-    margin-right: 10px;
+    margin-right: 10px;                                               /*All until the above note are linked to my Contact Me section in where is my contacts */
   }
+
+
+  /*This is the css in where it contains that style part of the website, most of the css structure is linked to each separete element on the html, either linked to
+  the footer or an img or and heading or and id or a class or something similar.*/ 
