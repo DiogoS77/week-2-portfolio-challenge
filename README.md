@@ -35,9 +35,14 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Usage
 
+This is my Portfolio Website. This is what i will be using for future work applications. This is a very simple straightforward website. You can either scroll down to see the contents or you can click in one of the navigation links at the top like About Me, Work, Resume and Contact Me.
+When you click in one of those they will automatically move you to the section you selected. This will save you time from scrolling down and searching the correct section.
+Also if you click in one of the contact icons at the bottom of the page they should rendirect you to the correct contact platfor you selected.
 
 
 ![alt text]( "End Result Screenshot")
 
 ## License
+
+N/A
 
