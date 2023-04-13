@@ -106,7 +106,6 @@
   
   .work-item {
     position: relative;
-    width: 300px;
     height: 200px;
     background-color: #fff;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.3);
@@ -118,6 +117,13 @@
     border: 2px solid transparent; 
     }
   
+    .w-100 {
+      width: 100%;
+    }
+
+    .w-50 {
+      width: 100%;
+    }
 
   .work-item:hover {
     border: 2px solid #5379cf;
