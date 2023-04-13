@@ -40,7 +40,7 @@ When you click in one of those they will automatically move you to the section y
 Also if you click in one of the contact icons at the bottom of the page they should rendirect you to the correct contact platfor you selected.
 
 
-![alt text](.assets/images/myportfolio.png "End Result Screenshot")
+![alt text](/assets/images/myportfolio.png "End Result Screenshot")
 
 ## License
 
