@@ -131,7 +131,31 @@
     margin-top: 50px;
     font-size: 32px;
   }
-  
+
+  .cv-container {
+    text-align: center;
+    margin: 50px auto;
+}
+
+.cv-container h2 {
+    font-size: 32px;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.cv-container a {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #2277af;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 18px;
+}
+
+.cv-container a:hover {
+    background-color: #3b9bd6;
+}
+
   footer { 
     padding: 30px;
     clear: both;
