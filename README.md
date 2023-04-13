@@ -1,4 +1,4 @@
-# week-2-portfolio-challenge
+# Week2 Portfolio Challenge
 
 ## User Story
 
@@ -31,6 +31,19 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 ## Description
 
+This project is basically a creation of my portfolio. This page contains a lot of information about me like an brief text about me, my picture, my Work, CV and Contacts. This website was build from the beginning and the main focus of it is to show a bit about me and show the skills i learned in the bootcamp until now. This webpage only contains html and css but i am planning to add some javascript in the future.
+
+The biggest challenfes i found while doing it, was not know from where should i start. I didnt know if i should make the structure first and then add some style to it or making it progressive in a way that i make the first section make it the way i like it and then go to the next one.
+
+I personally think making a portfolio is really important, because it allows you to show your skills and how hard can you work to make something look really good and professional. Also is something that can display your achievments and your information in a more organnised way.
+
+I think this challenge helped understand how to start a webpage from scrap without any starter code and doing everything by myself.
+There was quite a few stuff that this challenge helped me improve that i will be listing bellow.
+
+* How to start coding whithout any starting code
+* How to work around with css and html
+* How to define a structure that i liked it
+* Made me more confident
 
 
 ## Usage
